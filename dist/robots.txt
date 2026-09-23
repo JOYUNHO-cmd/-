@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://haneol-cleaning-preview.johyun3662.chatgpt.site/sitemap-index.xml
